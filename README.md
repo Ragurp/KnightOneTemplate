@@ -1,1 +1,1 @@
-# [KnightOneTemplate]( https://ragurp.github.io/KnightOneTemplate/)
+# KnightOneTemplate( https://ragurp.github.io/KnightOneTemplate/)
